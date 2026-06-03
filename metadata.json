@@ -1,0 +1,6 @@
+{
+  "name": "AI SOC Platform",
+  "description": "An advanced AI-powered Security Operations Center featuring a real-time Correlation Engine, Threat Scoring, MITRE ATT&CK Mapping, UEBA analytics with baseline profiling, and automatic AI-driven incident investigations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
